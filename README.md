@@ -101,8 +101,3 @@ venv/
 .env
 ```
 
-## Roadmap (next steps)
-- Add a second data source (e.g., LinkedIn scraping or another jobs API)
-- Load into a database (Postgres) instead of CSV
-- Add data quality checks + retries/alerts
-- Add Docker Compose to run Airflow + DB consistently
