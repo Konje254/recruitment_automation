@@ -1,10 +1,3 @@
-Perfect — below is a **copy-paste–ready, ATS-strong README / Case Study text**.
-It is **not over-summarized**, shows **technical depth + systems thinking**, and clearly signals **prowess** without exaggeration.
-
-You can paste this directly into **GitHub, Notion, or a portfolio page**.
-
----
-
 # recruitment_auto — Scalable Job & Company Data Engineering Pipeline
 
 ## Project Overview
@@ -243,12 +236,3 @@ recruitment_auto/
 
 This project demonstrates the ability to **think and build like a data engineer**—starting with people and process, validating foundations, and designing systems that scale without rewrites.
 
----
-
-If you want next, I can:
-
-* Extract **ATS-perfect CV bullets**
-* Create a **1-minute interview walkthrough**
-* Add a **clean architecture diagram** recruiters love
-
-Just tell me the next step.
